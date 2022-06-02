@@ -4,7 +4,7 @@
 ```python
 def aboutMe():
 	carreer = 'Bionic Engineer'
-	code = { 'Python','HTML', 'CSS', 'Java','Javascript','SOLIDWORKS' }
+	code = { 'Python','HTML', 'CSS', 'Java','Javascript','Matlab' }
 	interest = { 'AI','Data','Cloud','Biology' }
 ```
 
